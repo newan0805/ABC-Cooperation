@@ -1,0 +1,13 @@
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\bin\Debug\ABC Cooperation.exe.config
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\bin\Debug\ABC Cooperation.exe
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\bin\Debug\ABC Cooperation.pdb
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\obj\Debug\ABC Cooperation.csproj.AssemblyReference.cache
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\obj\Debug\ABC Cooperation.csproj.SuggestedBindingRedirects.cache
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\obj\Debug\ABC_Cooperation.Login.resources
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\obj\Debug\ABC_Cooperation.Properties.Resources.resources
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\obj\Debug\ABC Cooperation.csproj.GenerateResource.cache
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\obj\Debug\ABC Cooperation.csproj.CoreCompileInputs.cache
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\obj\Debug\ABC Cooperation.exe
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\obj\Debug\ABC Cooperation.pdb
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\obj\Debug\ABC_Cooperation.Registration.resources
+C:\Users\newan0805\Documents\Programing\c#\ABC Cooperation\obj\Debug\ABC_Cooperation.Form1.resources
